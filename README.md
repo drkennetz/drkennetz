@@ -4,11 +4,17 @@ I am a believer in Jesus Christ.
 
 I have been married for almost 4 years and we have a beautiful son!
 
-I love soccer, I played it my entire life.
+I love soccer, I played it my entire life and even in college for the University of Memphis.
+
+I have taken up a recent love of running! Current longest distance:
+ - 13.1
 
 I got started learning programming by accident, I am a chemist by trade and decided to learn python to analyze larger datasets.
 
 I have been a Software Engineer by profession at St. Jude Children's Research Hospital for about a year and a half, but I worked with programming for about 3 years prior to that in graduate school and my first job as a research technologist at St. Jude.
+
+"No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it."
+ - Hebrews 12:11
 
 ## Favorite Languages:
 
