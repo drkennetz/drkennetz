@@ -1,16 +1,27 @@
-### Hi there 👋
+### About me:
 
-<!--
-**drkennetz/drkennetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a believer in Jesus Christ.
+I have been married for almost 4 years and we have a beautiful son!
+I love soccer, I played it my entire life.
+I got started learning programming by accident, I am a chemist by trade and decided to learn python to analyze larger datasets.
+I have been a Software Engineer by profession at St. Jude Children's Research Hospital for about a year and a half, but I worked with programming for about 3 years prior to that in graduate school and my first job as a research technologist at St. Jude.
 
-Here are some ideas to get you started:
+## Favorite Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Python
+  - pandas
+  - numpy
+ - Go
+ - CWL
+ - BASH
+
+## Current Projects:
+
+ - PrimerTK - develop primers for multiplexing and around structural variants [PrimerTK](https://github.com/stjude/PrimerTK)
+ - Capseqstats - perform thorough analysis of targeted enrichment datasets (private repo)
+ - SJCB_Apps - framework using spack of all SJ Computational Biology internal and external tools (private repo)
+ - HPC in the Cloud - building out our data processing in Azure CycleCloud
+ 
+## Find me
+
+ - [LinkedIn](https://www.linkedin.com/in/dennis-kennetz-377448142)
