@@ -9,8 +9,8 @@ I have been a Software Engineer by profession at St. Jude Children's Research Ho
 ## Favorite Languages:
 
  - Python
-  - pandas
-  - numpy
+   - pandas
+   - numpy
  - Go
  - CWL
  - BASH
