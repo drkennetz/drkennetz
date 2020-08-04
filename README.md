@@ -35,3 +35,4 @@ I have been a Software Engineer by profession at St. Jude Children's Research Ho
 ## Find me
 
  - [LinkedIn](https://www.linkedin.com/in/dennis-kennetz-377448142)
+ - [StackOverflow](https://stackoverflow.com/users/8468264/d-kennetz?tab=profile)
