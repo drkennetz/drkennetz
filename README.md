@@ -36,3 +36,11 @@ I have been a Software Engineer by profession at St. Jude Children's Research Ho
 
  - [LinkedIn](https://www.linkedin.com/in/dennis-kennetz-377448142)
  - [StackOverflow](https://stackoverflow.com/users/8468264/d-kennetz?tab=profile)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=drkennetz&show_icons=true&count_private=true&include_all_commits=true&hide=stars)  
+
+<!--<a href="https://github.com/drkennetz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkennetz&count_private=true" />
+</a>-->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=drkennetz.drkennetz)
