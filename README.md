@@ -7,7 +7,7 @@ I have been married for almost 4 years and we have a beautiful son!
 I love soccer, I played it my entire life and even in college for the University of Memphis.
 
 I have taken up a recent love of running! Current longest distance:
- - 14.0
+ - 16.0
 
 I got started learning programming by accident, I am a chemist by trade and decided to learn python to analyze larger datasets.
 
