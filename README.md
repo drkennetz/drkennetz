@@ -2,35 +2,37 @@
 
 I am a believer in Jesus Christ.
 
-I have been married for almost 4 years and we have a beautiful son!
-
-I love soccer, I played it my entire life and even in college for the University of Memphis.
-
-I have taken up a recent love of running! Current longest distance:
- - 16.0
-
-I got started learning programming by accident, I am a chemist by trade and decided to learn python to analyze larger datasets.
-
-I have been a Software Engineer by profession at St. Jude Children's Research Hospital for about a year and a half, but I worked with programming for about 3 years prior to that in graduate school and my first job as a research technologist at St. Jude.
-
 "No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it."
  - Hebrews 12:11
 
-## Favorite Languages:
+### Check me out as an Admin at the CodingDojo!
+![CodingDojo](./codingdojo-logo.png)
 
- - Python
-   - pandas
-   - numpy
- - Go
- - CWL
- - BASH
+Check out [our repository](https://github.com/codeconnector/CodingDojo) or stop by a [Meetup](https://www.meetup.com/memphis-technology-user-groups) hosted by our CodeConnector parent org at 12pm CST Tuesdays.
 
-## Current Projects:
+WE:
+ - Post weekly coding challenges
+ - Practice white boarding the challenge
+ - Pair program a solution with a more experienced Navigator and less experienced Driver
+ - We will setup practice problems and test cases in the language of your choosing
+ - If you don't want to drive, but just want to come hangout, all are welcome!
+ - It is a safe place to learn and grow as a community
 
- - PrimerTK - develop primers for multiplexing and around structural variants [PrimerTK](https://github.com/stjude/PrimerTK)
- - Capseqstats - perform thorough analysis of targeted enrichment datasets (private repo)
- - SJCB_Apps - framework using spack of all SJ Computational Biology internal and external tools (private repo)
- - HPC in the Cloud - building out our data processing in Azure CycleCloud
+### SO Ready to Help
+![SO Badges](./SO_Badges.png)
+
+### Current Projects:
+
+ - [Coding Dojo](https://github.com/codeconnector/CodingDojo) - fun place to rip through some coding challenge problems!
+ - [Coding Challenge Website](https://github.com/drkennetz/CodingChallengeSite) - 3-tier React, Go, Postgresql site to practice coding challenges in a text editor with test cases. Early stages! Other technologies to be included: Terraform, Docker, Vault in Azure.
+
+## Older Projects / Contributions
+
+ - [PYTHON: toil cwl runner LSF memory doubling functionality](https://github.com/DataBiosphere/toil/pull/3313) - added automated memory doubling feature for jobs which fail due to memory in workflow steps up to a given number of retries - memory failures are common in genomics workflows for 3rd party tools. 
+ - [PYTHON: toil cwl runner LSF9->LSF10 integration](https://github.com/DataBiosphere/toil/pull/2726) - upgraded toil batch system job scheduler for IBM SPECTRUM LSF 9 -> 10 compatibility
+ - [PYTHON: toil cwl runner LSF10 memory logging](https://github.com/DataBiosphere/toil/pull/3327) - included memory logging for provenance in toil batch system job scheduler for CWL workflows and the IBM SPECTRUM LSF scheduler.
+ - [PYTHON: cwltool singularity 3.x integration](https://github.com/common-workflow-language/cwltool/pull/1113) - integrated Singularity 3.x with the Common Workflow Language Runner.
+ - [PYTHON: PrimerTK](https://github.com/stjude/PrimerTK) - my first ever published python project - still consistently used by 5 labs!
  
 ## Find me
 
