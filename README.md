@@ -21,6 +21,8 @@ WE:
 ### SO Ready to Help
 ![SO Badges](./SO_Badges.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkennetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Current Projects:
 
  - [Coding Dojo](https://github.com/codeconnector/CodingDojo) - fun place to rip through some coding challenge problems!
