@@ -19,7 +19,7 @@ WE:
  - It is a safe place to learn and grow as a community
 
 ### SO Ready to Help
-![SO Badges](./SO_Badges.png)
+<a href="https://stackexchange.com/users/11557519"><img src="https://stackexchange.com/users/flair/11557519.png" width="208" height="58" alt="profile for d_kennetz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for d_kennetz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkennetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
